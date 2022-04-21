@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Manager Room for renter",
+    "slug": "manager-room-for-renter",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.chrisP.managerRoomForRenter"
+    },
+    "android": {
+      "package": "com.chrisP.managerRoomForRenter",
+      "versionCode": 1
+    },
+    "description": ""
+  }
+}
