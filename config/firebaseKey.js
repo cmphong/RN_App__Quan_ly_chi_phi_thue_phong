@@ -1,12 +1,12 @@
 
 
 export default {
-  apiKey: "AIzaSyDty36PlWFNwERpm8fMC5ZFj7tAT_sQIYc",
-  authDomain: "user-management-app-25789.firebaseapp.com",
-  projectId: "user-management-app-25789",
-  storageBucket: "user-management-app-25789.appspot.com",
-  messagingSenderId: "881152772848",
-  appId: "1:881152772848:web:8c3f11728db1058cd1d035",
-  measurementId: "G-MN86CPDXZ1"
+  apiKey: "your_api_key",
+  authDomain: "your_project_id.firebaseapp.com",
+  projectId: "your_project_id",
+  storageBucket: "your_project_id.appspot.com",
+  messagingSenderId: "your_messaging_sender_id",
+  appId: "your_app_Id",
+  measurementId: "your_measurement_id"
 }
 
